@@ -1,2 +1,5 @@
-# competitive-programming
-Daily competitive programming solutions and notes.
+# CP Everyday
+
+## Codeforces
+
+- 4A - Watermelon
